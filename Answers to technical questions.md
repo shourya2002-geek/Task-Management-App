@@ -6,17 +6,19 @@ I spent 6 hours on the coding test.
 Hooks was one of the most useful features included in React. 
 Here is a code snippet to show the usage:
 
-```bash
-// UseEffect For StoredTasks in Local Stroage
- useEffect(() => {
-    const storedTasks = localStorage.getItem("tasks");
-    if (storedTasks) {
-      setTasks(JSON.parse(storedTasks));
-    }
-  }, []);
-  useEffect(() => {
-    localStorage.setItem("tasks", JSON.stringify(tasks));
-  }, [tasks]);
+```javascript
+// UseEffect For StoredTasks in Local Storage
+useEffect(() => {
+  const storedTasks = localStorage.getItem("tasks");
+  if (storedTasks) {
+    setTasks(JSON.parse(storedTasks));
+  }
+}, []);
+
+useEffect(() => {
+  localStorage.setItem("tasks", JSON.stringify(tasks));
+}, [tasks]);
+
 
 
 ## How would you track down a performance issue in production? Have you ever had to do this?
