@@ -6,6 +6,7 @@ I spent 6 hours on the coding test.
 Hooks was one of the most useful features included in React. 
 Here is a code snippet to show the usage:
 
+```bash
 // UseEffect For StoredTasks in Local Stroage
  useEffect(() => {
     const storedTasks = localStorage.getItem("tasks");
