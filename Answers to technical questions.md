@@ -19,9 +19,9 @@ Here is a code snippet to show the usage:
   }, [tasks]);
 
 
-  ## How would you track down a performance issue in production? Have you ever had to do this?
+## How would you track down a performance issue in production? Have you ever had to do this?
 
-  Tracking performance in production is a critical task. There are several methods I could follow to track down a performance issue in production:
+Tracking performance in production is a critical task. There are several methods I could follow to track down a performance issue in production:
 
 1. The first step is to clearly identify the performance issue. This could be slower response times, reduced throughput, or system crashes. Monitoring tools and user reports can help pinpoint the problem.
 
