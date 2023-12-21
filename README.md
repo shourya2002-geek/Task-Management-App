@@ -43,7 +43,3 @@ To run the app in your local development environment:
 
    ```bash
    npm start
-
-
-
-  
