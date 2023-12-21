@@ -18,7 +18,7 @@ Before you begin, ensure you have the following installed:
 - Git (for cloning the repository)
 - [Node.js](https://nodejs.org/en/) (for running the application)
 - [npm](https://www.npmjs.com/) (Node package manager)
-- [tailwindcss] (https://tailwindcss.com/) (Tailwind css)
+- [tailwindcss](https://tailwindcss.com/) (Tailwind css)
 
 ## Installation
 
