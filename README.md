@@ -10,6 +10,7 @@ Welcome to the Task Management App repository! This application is designed to h
 - **Task Deletion**: Remove completed or unwanted tasks.
 - **Task Editing**: Modify the details of existing tasks.
 - **Status Tracking**: Mark tasks as completed, overdue, or upcoming.
+- **Search and Filter**: Search and Filter tasks based on title, priority and completion status.
 
 ## Prerequisites
 
