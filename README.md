@@ -41,15 +41,9 @@ Follow these steps to get your development environment running:
 
 To run the app in your local development environment:
 
-```bash
-npm start ```
+   ```bash
+   npm start
 
-   
 
-The app will be served at http://localhost:3000. Open this URL in your browser to start using the Task Management App.
-
-## Contributing
-
-We welcome contributions! If you have suggestions or would like to contribute to the project, please feel free to make a pull request or open an issue.
 
   
