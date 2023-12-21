@@ -18,6 +18,7 @@ Before you begin, ensure you have the following installed:
 - Git (for cloning the repository)
 - [Node.js](https://nodejs.org/en/) (for running the application)
 - [npm](https://www.npmjs.com/) (Node package manager)
+- [tailwindcss] (https://tailwindcss.com/) (Tailwind css)
 
 ## Installation
 
@@ -44,3 +45,7 @@ To run the app in your local development environment:
 
    ```bash
    npm start
+   ```
+## Contributing
+
+Contributions are welcomed! If you have suggestions or would like to contribute to the project, please feel free to make a pull request or open an issue.
